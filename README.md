@@ -46,7 +46,7 @@ No prior DevOps experience is required.
 ## 🗂 Repository Structure
 
 ```
-90DaysOfDevOps/
+90days_devops/
 │
 ├── README.md
 ├── CONTRIBUTING.md
