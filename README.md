@@ -47,14 +47,6 @@ No prior DevOps experience is required.
 
 ```
 90days_devops/
-│
-├── README.md
-├── CONTRIBUTING.md
-├── LICENSE
-├── .gitignore
-│
-├── scripts/
-│   └── helper-scripts.sh
 |
 ├── day-01/
 │   └── README.md
@@ -63,7 +55,14 @@ No prior DevOps experience is required.
 ├── ...
 ├── day-90/
 │   └── README.md
-```
+│
+├── README.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── .gitignore
+│
+├── scripts/
+│   └── helper-scripts.sh
 
 ---
 
