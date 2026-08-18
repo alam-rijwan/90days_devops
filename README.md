@@ -55,7 +55,7 @@ No prior DevOps experience is required.
 │
 ├── scripts/
 │   └── helper-scripts.sh
-│
+90days_devops/2026
 ├── day-01/
 │   └── README.md
 ├── day-02/
