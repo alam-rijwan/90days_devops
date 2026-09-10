@@ -1,0 +1,4 @@
+HI, I am a Md Rijwan Alam
+I am a devops ethusiast
+To day is day06 of learning linux
+Learn using tee command
