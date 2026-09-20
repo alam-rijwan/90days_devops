@@ -25,7 +25,7 @@
  * Using double quote `" "` - The variables and commands are evaluated.
  * Using single quote `' '` - Everything inside is taken literally, no evaluation happens.
 
-[Here is the script variables.sh](scripts/variables.sh)
+[Here is the script variables.sh](scripts/variable.sh)
 
 
 ---
