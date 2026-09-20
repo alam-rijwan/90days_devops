@@ -77,11 +77,6 @@
    ![snapshot](images/safe_script.png)
 
 
-2.  `install_packages.sh` 
-
-   
-   
-   ![snapshot](images/modified_install_packages.png)
 
 ---
 
